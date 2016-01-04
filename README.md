@@ -22,7 +22,7 @@ npm install https://github.com/threeq/hexo-tag-gantt.git --save
     anther task      : 24d
 {% endgantt %}
 ```
-[效果图](http://http://threeq.me/2015/10/22/hexo-tag-gantt/)
+[效果图](http://threeq.me/2015/10/22/hexo-tag-gantt/)
 
 ### 语法
 
